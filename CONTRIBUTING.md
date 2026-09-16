@@ -1,4 +1,4 @@
-# Contributing to Advanced-Machine-Learning-Algorithms :
+# Contributing to Neural-Networks-and-Deep-Learning-Fundamentals:
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
