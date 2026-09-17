@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="assets/images/1.png" width="100%" alt="GitHub Stats"/>
+      <img src="assets/images/4.png" width="100%" alt="GitHub Stats"/>
       <p>Neural Network</p>
     </td>
     <td width="50%" valign="top" align="center">
