@@ -1,5 +1,18 @@
 # Neural Networks and Deep Learning Fundamentals
 
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/images/1.png" width="100%" alt="GitHub Stats"/>
+      <p>Neural Network</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/images/2.png" width="100%" alt="Programming GIF" />
+      <p>Deep Learning</p>
+    </td>
+  </tr>
+</table>
+
 A practical and structured introduction to neural networks and deep learning, covering the fundamentals required to understand, build, train, and evaluate deep learning models.
 
 This repository combines conceptual learning with hands-on implementation using TensorFlow, Keras, and PyTorch. The content is organized as a progressive seven-day learning path, starting with the foundations of neural networks and concluding with an image classification project using the CIFAR-10 dataset.
