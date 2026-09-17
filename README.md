@@ -38,6 +38,7 @@ By completing this repository, you will be able to:
 
 Introduces the fundamentals of artificial intelligence, machine learning, deep learning, and neural networks.
 
+<img src="assets/images/5.png" width="100%" alt="GitHub Stats"/>
 Topics include:
 
 - Artificial neurons
@@ -49,7 +50,7 @@ Topics include:
 ###  2: Forward Propagation and Activation Functions
 
 Explains how input data moves through a neural network to generate predictions.
-
+<img src="assets/images/6.png" width="100%" alt="GitHub Stats"/>
 Topics include:
 
 - Forward propagation
