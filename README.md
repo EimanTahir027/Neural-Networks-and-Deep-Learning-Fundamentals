@@ -50,6 +50,7 @@ Topics include:
 ###  2: Forward Propagation and Activation Functions
 
 Explains how input data moves through a neural network to generate predictions.
+
 <img src="assets/images/6.png" width="100%" alt="GitHub Stats"/>
 Topics include:
 
@@ -67,6 +68,7 @@ Topics include:
 
 Covers how neural networks measure prediction errors and learn from them.
 
+<img src="assets/images/7.gif" width="100%" alt="GitHub Stats"/>
 Topics include:
 
 - Loss functions
