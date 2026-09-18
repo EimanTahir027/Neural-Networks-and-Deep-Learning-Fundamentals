@@ -98,6 +98,9 @@ Topics include:
 
 Explores the optimization algorithms used to minimize loss and improve model performance.
 
+  <img src="assets/images/10.gif" width="100%" alt="GitHub Stats"/>
+      <p align="center">Gradient Descent Methods (Momentum,AdaGrad,RMSProp,Adam)</p>
+
 Topics include:
 
 - Gradient descent
