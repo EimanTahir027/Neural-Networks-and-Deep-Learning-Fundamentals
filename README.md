@@ -51,13 +51,27 @@ Topics include:
 
 Explains how input data moves through a neural network to generate predictions.
 
-<img src="assets/images/6.png" width="100%" alt="GitHub Stats"/>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/images/6.gif" width="100%" alt="GitHub Stats"/>
+      <p>Forward Propagation</p>
+    </td>
+    <td width="50%" >
+      <img src="assets/images/8.gif" width="100%" alt="Programming GIF" />
+      <p>Activation Functions</p>
+    </td>
+  </tr>
+</table>
 Topics include:
 
 - Forward propagation
 - Weighted sums
 - Bias terms
 - Activation functions
+
+   <img src="assets/images/9.png" width="100%" alt="Programming GIF" />
+   
 - ReLU
 - Sigmoid
 - Tanh
