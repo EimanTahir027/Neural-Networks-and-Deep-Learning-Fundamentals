@@ -153,6 +153,8 @@ Topics include:
 
 Applies the concepts covered throughout the repository to an end-to-end image classification problem.
 
+ <img src="assets/images/13.png" width="100%" alt="GitHub Stats"/>
+      
 The project includes:
 
 - Loading and preprocessing the CIFAR-10 dataset
