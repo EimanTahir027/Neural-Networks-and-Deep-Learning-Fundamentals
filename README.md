@@ -135,6 +135,7 @@ Topics include:
 
 Introduces the PyTorch approach to neural network development.
 
+  <img src="assets/images/12.png" width="100%" alt="GitHub Stats"/>
       
 Topics include:
 
