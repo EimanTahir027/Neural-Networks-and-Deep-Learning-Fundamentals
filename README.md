@@ -117,6 +117,9 @@ Topics include:
 
 Demonstrates how to build, compile, train, and evaluate neural networks using TensorFlow and Keras.
 
+
+  <img src="assets/images/11.png" width="100%" alt="GitHub Stats"/>
+  
 Topics include:
 
 - Model construction
@@ -132,6 +135,7 @@ Topics include:
 
 Introduces the PyTorch approach to neural network development.
 
+      
 Topics include:
 
 - Tensors
